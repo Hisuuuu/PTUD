@@ -21,7 +21,7 @@ namespace BaiTapWindowsForm
 
         public string HienThi()
         {
-            return string.Format("{0}", "{1}", "{2}", "{3}", "{4}", MaHang, TenHang, DVT, SoLuong, DonGia);
+            return string.Format("{0}, {1}, {2}, {3}, {4}", MaHang, TenHang, DVT, SoLuong, DonGia);
         }
     }
 }

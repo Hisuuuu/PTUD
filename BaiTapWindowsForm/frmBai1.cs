@@ -16,5 +16,19 @@ namespace BaiTapWindowsForm
         {
             InitializeComponent();
         }
+
+        private void frmBai1_Load(object sender, EventArgs e)
+        {
+            HangHoa hh = new HangHoa();
+            hh.MaHang = "HH01";
+            hh.TenHang = "Chuột";
+            hh.DVT = "Cái";
+            hh.SoLuong = 4;
+            hh.DonGia = 200000;
+
+            //Hiện thị kết quả sử dụng lbThongBao
+            lbThongBao.Text = hh.HienThi();
+        }
+
     }
 }

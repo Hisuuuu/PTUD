@@ -55,6 +55,7 @@
             this.tsbBai1.Name = "tsbBai1";
             this.tsbBai1.Size = new System.Drawing.Size(52, 22);
             this.tsbBai1.Text = "Bài 1";
+            this.tsbBai1.Click += new System.EventHandler(this.tsbBai1_Click);
             // 
             // tsbBai2
             // 
@@ -63,6 +64,7 @@
             this.tsbBai2.Name = "tsbBai2";
             this.tsbBai2.Size = new System.Drawing.Size(52, 22);
             this.tsbBai2.Text = "Bài 2";
+            this.tsbBai2.Click += new System.EventHandler(this.tsbBai2_Click);
             // 
             // tsbBai3
             // 
@@ -71,6 +73,7 @@
             this.tsbBai3.Name = "tsbBai3";
             this.tsbBai3.Size = new System.Drawing.Size(52, 22);
             this.tsbBai3.Text = "Bài 3";
+            this.tsbBai3.Click += new System.EventHandler(this.tsbBai3_Click);
             // 
             // frmChinh
             // 
