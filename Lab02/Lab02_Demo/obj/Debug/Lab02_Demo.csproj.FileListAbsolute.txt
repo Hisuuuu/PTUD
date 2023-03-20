@@ -1,0 +1,13 @@
+E:\Lab02\Lab02_Demo\bin\Debug\Lab02_Demo.exe.config
+E:\Lab02\Lab02_Demo\bin\Debug\Lab02_Demo.exe
+E:\Lab02\Lab02_Demo\bin\Debug\Lab02_Demo.pdb
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.csprojAssemblyReference.cache
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.frmTrungTam.resources
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.Properties.Resources.resources
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.GenerateResource.cache
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.csproj.CoreCompileInputs.cache
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.exe
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.pdb
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.frmGiaoVien.resources
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.frmTBGiaoVien.resources
+E:\Lab02\Lab02_Demo\obj\Debug\Lab02_Demo.frmTimGiaoVien.resources
